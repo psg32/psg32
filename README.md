@@ -11,3 +11,6 @@
 
 ⚡ Fun fact: 
 * seals have a sense of rhythm and can vocalise in ultrasonic frequencies 🦭.
+
+🌃 Collaborator / Partners:
+* I'm a part of the British Antarctic Survey 🗻, the University of Cambridge's Scott Polar Research Institute 📖, the World Wildlife Fund 🐼, the Alan Turing Institute 🧠 and National Geographic 🌍. I collaborate with fun institutes through my PhD and the grassroots organisation Polar Impact. This includes: University of Oxford 🖋, Royal Museums Greenwich 🏛, Digital Catapult 💽 and the BBC 🎥.     
