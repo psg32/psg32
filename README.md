@@ -17,5 +17,5 @@
 
 
 ![alt text](https://github.com/psg32/psg32/blob/main/figures/Designer.png)
-
+![alt text](https://github.com/psg32/psg32/blob/main/figures/Designer.png){:height="200px" width="200px"}
 
