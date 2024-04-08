@@ -15,7 +15,6 @@
 🌃 Collaborator / Partners:
 * I'm a part of the British Antarctic Survey 🗻, the University of Cambridge's Scott Polar Research Institute 📖, the World Wildlife Fund 🐼, the Alan Turing Institute 🧠 and National Geographic 🌍. I collaborate with fun institutes through my PhD and the grassroots organisation Polar Impact. This includes: University of Oxford 🖋, Royal Museums Greenwich 🏛, Digital Catapult 💽 and the BBC 🎥.     
 
-
-![alt text](https://github.com/psg32/psg32/blob/main/figures/Designer.png)
 ![alt text](https://github.com/psg32/psg32/blob/main/figures/Designer.png){:height="200px" width="200px"}
 
+<img src="https://github.com/psg32/psg32/blob/main/figures/Designer.png" width="200" />
