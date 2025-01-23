@@ -4,7 +4,7 @@
 * studying seals from space for my PhD.
 
 🌱 I’m currently learning: 
-* how to automate and version control non-traditional data science datasets (eg GIS datasets).
+* deep learning to count seals.
 
 💬 Ask me about: 
 * seals, remote sensing, cold places, EDI, immersive technology.
